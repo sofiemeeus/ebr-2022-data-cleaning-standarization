@@ -2,7 +2,7 @@
 # Data cleaning and standardisation in R 
 
 # make sure to have installed tidyverse, uncomment next to install it
-# install.packages("tidyverse")
+install.packages("tidyverse")
 library(tidyverse)
 
 DataAbundancew <- read_csv("./data/DataAbundancew.csv")
